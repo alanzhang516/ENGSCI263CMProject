@@ -1,0 +1,11 @@
+parameter,units,initial_guess,calibrated,status
+"Thermal mass, mc_p",J/K,600000000.0,5905450621.95419,Calibrated
+"Heat removal, UA",W/K,20000.0,25026.55318148363,Calibrated
+"Calendar fade, k_{cal}",1/day,4.794520547945206e-05,2.6735638588023868e-05,Calibrated
+"Cycle fade, k_{cyc}",1/MWh,1.5753424657534248e-07,2.3802050811421353e-07,Calibrated
+"Initial capacity, Q_0",–,1.0,0.999614304887094,Calibrated
+"Heat loss fraction, eta",–,0.015,,Fixed (datasheet)
+"Activation energy, E_a",J/mol,50000.0,,Fixed (datasheet)
+"Hall temperature, T_{hall}",°C,20.0,,Fixed (given)
+"Reference temperature, T_{ref}",°C,25.0,,Fixed (definition)
+"Initial temperature, T_0",°C,26.5,,Fixed (first reading)
